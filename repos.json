@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "name": "A32-test",
+      "repo": "https://github.com/ASKSAP/android_kernel_samsung_a32x",
+      "branch": "A326BXXU1AUA5",
+      "device": "a326b"
     },
     "withKernelSU": false,
     "toolchains": [
